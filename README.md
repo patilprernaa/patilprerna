@@ -11,6 +11,7 @@ I'm Prerna 3rd-year B.Tech AIML student who loves building cool stuff with code,
 currently learning **Data Structure and Algorithm, Devops, Java and Exploring The world of AI**
 
 # 💻 &nbsp;Tools and Technologies
+<!--
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -134,7 +135,7 @@ currently learning **Data Structure and Algorithm, Devops, Java and Exploring Th
 
 
 </div>
-
+-->
 
 <p align="center">
 
